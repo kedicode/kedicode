@@ -1,3 +1,6 @@
+<picture>
+ <img alt="Boats, Tech and Family" src="https://raw.githubusercontent.com/kedicode/kedicode/main/kedicode_banner.webp">
+</picture>
 
 
 <!--
